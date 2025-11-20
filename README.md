@@ -17,8 +17,8 @@ The insights will help the company design strategies to convert more casual ride
 ---
 
 ## 📂 Repository Structure
-
-```Cyclistic-Capstone/
+```
+Cyclistic-Capstone/
 │
 ├── scripts/
 │ ├── 01_data_cleaning.R
@@ -40,8 +40,8 @@ The insights will help the company design strategies to convert more casual ride
 ├── avg_duration.png
 ├── weekday_rides.png
 ├── monthly_trend.png
-└── bike_type_preference.png```
-
+└── bike_type_preference.png
+```
 
 > **Note:**  
 > Full raw dataset is not uploaded due to GitHub size limits.  
